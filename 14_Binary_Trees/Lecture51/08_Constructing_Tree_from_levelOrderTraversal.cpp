@@ -55,6 +55,7 @@ int main(){
     //construct
     int arr[] = {1, 2, 3, 4, 5, INT8_MIN, 6, INT8_MIN, INT8_MIN, 7, 8, INT8_MIN, 9};
     int n  = sizeof(arr)/sizeof(arr[0]);
+    //converts the array into the binary tree
     Node* root = constructTree(arr,n);
 
     //level order traversal
