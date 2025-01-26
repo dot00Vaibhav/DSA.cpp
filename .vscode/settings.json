@@ -43,6 +43,7 @@
         "typeinfo": "cpp",
         "set": "cpp",
         "unordered_set": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "climits": "cpp"
     }
 }
