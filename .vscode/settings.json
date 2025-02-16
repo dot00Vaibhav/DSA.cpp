@@ -44,6 +44,7 @@
         "set": "cpp",
         "unordered_set": "cpp",
         "map": "cpp",
-        "climits": "cpp"
+        "climits": "cpp",
+        "cstring": "cpp"
     }
 }
