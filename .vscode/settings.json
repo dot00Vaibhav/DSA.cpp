@@ -45,6 +45,7 @@
         "unordered_set": "cpp",
         "map": "cpp",
         "climits": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "queue": "cpp"
     }
 }
